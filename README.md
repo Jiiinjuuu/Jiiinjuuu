@@ -35,7 +35,6 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:jinju1010@yu.ac.kr">
-    <img
-     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinju1010@yu.ac.kr)](mailto:jinju1010@yu.ac.kr)
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinju1010@yu.ac.kr" />&nbsp
   </a>
 </div>
